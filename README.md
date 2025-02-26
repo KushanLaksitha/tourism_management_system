@@ -32,8 +32,8 @@ The **Sri Lankan Tourism Management System** is a web application designed to sh
 2. **Set up the environment:**
 - Copy the project folder to your web server's root directory (htdocs for XAMPP).
 - Create a database named tourism_management in phpMyAdmin and import the provided SQL file.
-3. **Configure the connection:**
-- Update the database connection details in config.php (or relevant config file).
+3. **Create the database:**
+- Import the database.sql to the MYSQL database management system (using phpmyAdmin).
 4. **Run the project:**
 - Start Apache and MySQL servers.
 - Open your browser and navigate to:
